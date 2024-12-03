@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/images/icon-128.png" alt="AutoGem Icon" width="128" height="128">
+</p>
+
 # ✨ AutoGem Chrome Extension
 
 🤖 Turn your AI chat experience into a magical journey! AutoGem is like having a smart co-pilot that reads your mind and suggests exactly what you want to ask next. It's Google's "I'm Feeling Lucky" button, but for your AI conversations!
@@ -22,19 +26,16 @@
 ## 🚀 Quick Start
 
 1. 📥 Grab the code
-
 ```bash
 git clone https://github.com/autogem/autogem.git
 ```
 
 2. 📦 Install dependencies
-
 ```bash
 npm install
 ```
 
 3. 🛠️ Build extension
-
 ```bash
 npm run build
 ```
@@ -58,7 +59,6 @@ npm run build
 ## 👩‍💻 Development Zone
 
 ### 🛠️ Tech Arsenal
-
 - ⚛️ React 18
 - 📘 TypeScript
 - 🧩 Chrome Extension APIs
@@ -66,7 +66,6 @@ npm run build
 - 💅 Tailwind CSS
 
 ### 📁 Where Everything Lives
-
 ```
 autogem-extension/
 ├── src/
@@ -77,20 +76,18 @@ autogem-extension/
 ```
 
 ### 🧱 Build Commands
-
 ```bash
-npm run dev     # Development with watch
-npm run build   # Production build
-```
-
-### 🤝 Join the Fun!
-
+npm run dev🤝 Join the Fun!
 Want to make AutoGem even more awesome?
 
 - 🍴 Fork our project
 - 🌱 Grow your cool feature
 - 💫 Commit your magic
-- 🎁 Share with the community
+- 🎁 Share with the communitysitory
+2. Create feature branch
+3. Commit changes
+4. Open pull request
+
 
 ### 🛡️Security First!
 We take your privacy seriously:
