@@ -86,10 +86,7 @@ Want to make AutoGem even more awesome?
 - 🍴 Fork our project
 - 🌱 Grow your cool feature
 - 💫 Commit your magic
-- 🎁 Share with the communitysitory
-2. Create feature branch
-3. Commit changes
-4. Open pull request
+- 🎁 Share with the community
 
 
 ### 🛡️Security First!
