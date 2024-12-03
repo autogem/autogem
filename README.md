@@ -87,10 +87,10 @@ npm run build   # Production build
 
 Want to make AutoGem even more awesome?
 
-🍴 Fork our project
-🌱 Grow your cool feature
-💫 Commit your magic
-🎁 Share with the community
+- 🍴 Fork our project
+- 🌱 Grow your cool feature
+- 💫 Commit your magic
+- 🎁 Share with the community
 
 ### 🛡️Security First!
 We take your privacy seriously:
