@@ -77,7 +77,10 @@ autogem-extension/
 
 ### 🧱 Build Commands
 ```bash
-npm run dev🤝 Join the Fun!
+npm run dev
+```
+
+## 🤝 Join the Fun!
 Want to make AutoGem even more awesome?
 
 - 🍴 Fork our project
