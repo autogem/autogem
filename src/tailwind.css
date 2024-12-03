@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#autogem-content-root {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50%;
+  min-width: 460px;
+  z-index: 9999;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  outline: none;
+  font-family: "Quicksand", sans-serif;
+}
