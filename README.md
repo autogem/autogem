@@ -16,7 +16,6 @@ AutoGem enhances your AI conversations with predictive suggestions and auto-mode
 - Chrome AI flags enabled:
   ```
   chrome://flags/#prompt-api-for-gemini-nano
-  chrome://flags/#summarization-api-for-gemini-nano
   chrome://flags/#optimization-guide-on-device-model
   ```
 
@@ -44,7 +43,7 @@ npm run build
    - Click "Load unpacked"
    - Select the `dist` folder
    - Don't forget to enable the required Chrome flags.
-   
+
 ## Usage
 
 1. Use Cmd/Ctrl + Shift + U to toggle interface
