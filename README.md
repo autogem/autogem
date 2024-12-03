@@ -2,7 +2,7 @@
 
 🤖 Turn your AI chat experience into a magical journey! AutoGem is like having a smart co-pilot that reads your mind and suggests exactly what you want to ask next. It's Google's "I'm Feeling Lucky" button, but for your AI conversations!
 
-## ✨ What's Cool About It?
+## 🌟 What's Cool About It?
 
 - 🧠 Reads your mind (well, your conversation context)
 - 💡 Suggests questions before you even think of them
