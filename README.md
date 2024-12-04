@@ -22,6 +22,7 @@
   chrome://flags/#prompt-api-for-gemini-nano
   chrome://flags/#optimization-guide-on-device-model
   ```
+- Get your trial code from [here](https://developer.chrome.com/origintrials/#/view_trial/320318523496726529) and update manifest.json file.
 
 ## 🚀 Quick Start
 
