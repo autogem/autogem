@@ -56,9 +56,6 @@ const Content: React.FC = () => {
     const userQueries = document.querySelectorAll(
       "user-query-content .query-text"
     );
-    const modelResponses = document.querySelectorAll(
-      "message-content .markdown"
-    );
 
     const messages: Message[] = [];
 
@@ -66,13 +63,6 @@ const Content: React.FC = () => {
       const text = query.textContent?.trim();
       if (text) {
         messages.push({ text, timestamp: Date.now(), isUser: true });
-      }
-    });
-
-    modelResponses.forEach((response) => {
-      const text = response.textContent?.trim();
-      if (text) {
-        messages.push({ text, timestamp: Date.now(), isUser: false });
       }
     });
 
@@ -86,6 +76,12 @@ const Content: React.FC = () => {
   const analyzeConversation = useCallback(async () => {
     if (!aiAvailable) {
       console.error("AI not available");
+      return;
+    }
+
+    if (messages.length < 3) {
+      console.log("Not enough messages for analysis");
+      setSuggestions([]);
       return;
     }
 
