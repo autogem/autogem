@@ -24,7 +24,7 @@ export interface Message {
 }
 
 /**
- * Generates follow-up questions based on conversation history
+ * Generates follow-up, exploration and clarification questions based on conversation history
  * @param messages - Array of conversation messages
  * @returns Object containing success status and either suggestions or error
  */
